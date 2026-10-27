@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', 'Noto Sans Tamil', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  body {
+    font-family: var(--font-sans);
+    background-color: #f8faf8;
+    color: #172b22;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  [lang="ta"] {
+    font-family: 'Noto Sans Tamil', 'Plus Jakarta Sans', sans-serif;
+    line-height: 1.6;
+  }
+}

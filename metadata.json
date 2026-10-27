@@ -1,0 +1,6 @@
+{
+  "name": "UDHAVI - AI Social Support Gap Detector",
+  "description": "AI-powered social-support platform for rural development & livelihoods in Tamil Nadu, detecting unmet needs, identifying documentation and access barriers, and connecting citizens with verified community resources and volunteers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
